@@ -1,6 +1,6 @@
 {
-  "name": "GHPageTemplate",
-  "displayName": "Template Page",
+  "name": "PerfBoardLayoutTool",
+  "displayName": "Perf Board Layout Tool",
   "private": true,
   "version": "0.0.0",
   "type": "module",

@@ -1,8 +1,5 @@
-# GH Page Template
+# Perf Board Layout Tool
 Made using React + Vite + TS <br>
-Set your project's name in **package.json** (the only place to change it): <br>
-- name: GitHub repo name, used for the Vite base path `/name/`
-- displayName: page title (index.html, and `__SITE_TITLE__` in app code)
 
 # Build Instructions
 ## build
